@@ -1,0 +1,6 @@
+{
+  "name": "ScrumMastery - Guía Interactiva & Tablero Ágil",
+  "description": "Aprende el marco Scrum con explicaciones visuales, ejemplos interactivos, simulador de tablero de Sprint, integraciones con herramientas ágiles y mini juego educativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
